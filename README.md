@@ -26,7 +26,8 @@ This repository contains a Power BI report titled **"Sales and Performance Analy
 
 ## 📷 Dashboard Preview
 
-> *(Add a screenshot of your report page here. If hosted online, you can embed a preview image)*
+> *<img width="1136" height="646" alt="image" src="https://github.com/user-attachments/assets/3c02604c-fb4e-4321-bf5e-00f74da3a762" />
+*
 
 ---
 
@@ -67,10 +68,10 @@ The objective of this Power BI assignment is to:
 
 ## 👤 Author
 
-**Prejan Raja S**  
+**Nikil R**  
 B.Tech Artificial Intelligence  
 SRM Institute of Science and Technology  
-📧 prejanraja@gmail.com | 📱 +91 87543 38127
+📧 nr1168@gmail.com | 📱 +91 7708559643
 
 ---
 
